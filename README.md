@@ -10,4 +10,6 @@ This project provides automated API testing for the [Swagger Pet Store API](http
 - 📊 **HTML Reporting** – beautiful, interactive reports generated using `newman-reporter-htmlextra` and hosted on GitHub Pages.
 
 ---
+To know More about Postman test result, visit this website => "https://yazanalmuselli.github.io/swagger-PetStore-API-test-/"
+it is served using github pages.
 
